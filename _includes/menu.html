@@ -8,7 +8,7 @@
         <ul class="uk-navbar-nav">
             {% for topic in site.data.index %}
             <li class="uk-visible@m"><a 
-                href="/#topic{{ forloop.index }}"
+                href="/#item{{ forloop.index }}"
                 uk-scroll="offset: 120">
                 {{ topic.title }}</a></li>
             {% endfor %}        
@@ -25,7 +25,7 @@ true">
         <ul class="uk-list">
             {% for topic in site.data.index %}
             <li><h3><a class="uk-link-text"
-                href="/#topic{{ forloop.index }}"
+                href="/#item{{ forloop.index }}"
                 uk-scroll="offset: 120"
                 uk-toggle="target: #offcanvas-reveal">{{ topic.title }}</a></li>
             {% endfor %}
