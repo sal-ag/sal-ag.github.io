@@ -12,6 +12,9 @@ footer {
 #content {
     padding-top: 260px;
 }
+uk-navbar-nav>li>a {
+    min-height: 15px;
+}
 
 @media (max-width: 639px) {
     #content {

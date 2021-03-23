@@ -9,7 +9,7 @@
             {% for topic in site.data.index %}
             <li class="uk-visible@m"><a 
                 href="/#topic{{ forloop.index }}"
-                uk-scroll="offset: 120"
+                uk-scroll="offset: 120">
                 {{ topic.title }}</a></li>
             {% endfor %}        
             <li><a href="#" uk-toggle="target: #offcanvas-reveal" uk-icon="icon: menu; ratio: 1.5"></a> </li>
