@@ -14,8 +14,11 @@ footer {
 }
 uk-navbar-nav>li>a {
     min-height: 15px;
+    max-width: 8em;
+    img {
+        width: 100%;
+    }
 }
-
 
 @media (max-width: 639px) {
     #content {
