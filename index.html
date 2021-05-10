@@ -47,6 +47,9 @@ layout: plain
                         </div>
                     </div>
                     <h4 class="uk-text-center" >{{ person.name }}</h4>
+                    {% if person.function %}
+                    <h5 class="uk-text-center">{{person.function}}</h5> 
+                    {% endif %}
                     {{ person.bio | markdownify }}
                 </div>
                 {% endfor %}
