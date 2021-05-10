@@ -1,7 +1,4 @@
----
----
-
-$sal-color-dark: #1b3764;
+--- --- $sal-color-dark: #1b3764;
 
 footer {
     background-color: $sal-color-dark;
@@ -12,13 +9,18 @@ footer {
 #content {
     padding-top: 150px;
 }
-.uk-navbar-nav>li>a {
-    min-height: 15px;
-    max-width: 8em;
-    img {
-        width: 100%;
-        padding-top: 3ex;
-        padding-left: 3ex;
+
+.uk-navbar-nav>li {
+    white-space: nowrap;
+
+    >a {
+        min-height: 15px;
+        max-width: 10em;
+
+        >img {
+            width: 100%;
+            padding-top: 1ex;
+            padding-left: 1em;
+        }
     }
 }
-
