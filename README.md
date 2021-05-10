@@ -1,2 +1,0 @@
-
-# SAL AG Website
