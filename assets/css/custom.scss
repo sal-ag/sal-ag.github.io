@@ -18,12 +18,7 @@ footer {
     img {
         width: 100%;
         padding-top: 3ex;
-        passing-left: 3ex;
+        padding-left: 3ex;
     }
 }
 
-@media (max-width: 639px) {
-    #content {
-        padding-top: 74vw;
-    } 
-}
