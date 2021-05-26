@@ -26,12 +26,12 @@ footer {
             max-width: 12em;
             padding-top: 1ex;
             padding-left: 1em;
-            transition: width 0.5s;
+            transition: max-width 0.2s;
         }
     }
 }
 .uk-navbar-container.uk-sticky.uk-active img {
-        max-width: 10em;
+        max-width: 9em;
 }
 
 .people {
