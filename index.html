@@ -8,7 +8,9 @@ layout: plain
         <div class="uk-width-1-1@s uk-width-2-3@m">
             <h3 id="item{{ forloop.index }}">{{ item.title }}</h3>
             {% if item.body %}
+                <div class="sh-hyphen">
                 {{ item.body | markdownify }}
+                </div>
             {% endif %}
             {% if item.gallery %}
             <!-- ## GALLERY ############################################## -->
@@ -23,7 +25,9 @@ layout: plain
                                 </div>
                                 <div class="uk-card-body">
                                     <h4 class="uk-card-title">{{ gitem.title }}</h4>
+                                    <div class="sh-hyphen">
                                     {{ gitem.body | markdownify }}
+                                    </div>
                                 </div>
                             </div>
                         </li>
@@ -50,7 +54,9 @@ layout: plain
                     {% if person.function %}
                     <h5 class="uk-text-center">{{person.function}}</h5> 
                     {% endif %}
+                    <div class="sh-hyphen">
                     {{ person.bio | markdownify }}
+                    </div>
                 </div>
                 {% endfor %}
             </div>
