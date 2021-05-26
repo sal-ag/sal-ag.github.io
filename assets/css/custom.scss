@@ -19,11 +19,15 @@ footer {
         min-height: 15px;
         >img {
             width: 100%;
-            max-width: 10em;
+            max-width: 12em;
             padding-top: 1ex;
             padding-left: 1em;
+            transition: width 0.5s;
         }
     }
+}
+.uk-navbar-container.uk-sticky.uk-active img {
+        max-width: 10em;
 }
 
 .people {
