@@ -52,9 +52,9 @@ layout: plain
                         </div>
                     </div>
                     {% endif %}
-                    <h4 class="uk-text-center" >{{ person.name }}</h4>
+                    <h4 class="uk-text" >{{ person.name }}</h4>
                     {% if person.function %}
-                    <h5 class="uk-text-center">{{person.function}}</h5> 
+                    <h5 class="uk-text">{{person.function}}</h5> 
                     {% endif %}
                     <div class="sh-hyphen">
                     {{ person.bio | markdownify }}
