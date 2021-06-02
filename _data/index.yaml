@@ -74,7 +74,7 @@
   people:
   - name: Thomas Schwab
     function: Verwaltungsrat
-    pic: assets/img/ts_500x500.jpg
+    # pic: assets/img/ts_500x500.jpg
     bio: |
       dipl. Architekt ETH/SIA, Mitbegründer und Geschäftsleitungsmitglied 
       Architekturbüro werk1 architekten und planer ag, Olten
@@ -84,7 +84,7 @@
 
   - name: Daniela Schwab
     function: Verwaltungsrätin
-    pic: assets/img/ds_500x500.jpg
+    # pic: assets/img/ds_500x500.jpg
     bio: |
       dipl. Ing. Architektin Bauhausuniversität Weimar, langjährige 
       Tätigkeit in Architekturbüros mit Schwerpunkt im Bereich Neubau- 
@@ -92,7 +92,7 @@
 
   - name: Nicole Kappeler
     function: Geschäftsführerin
-    pic: assets/img/nk_500x500.jpg
+    # pic: assets/img/nk_500x500.jpg
     bio: |
       Immobilienvermarkterin mit eidg. FA,
       Kaufmännische Grundausbildung mit Weiterbildung zum höheren Wirtschaftsdiplom,
