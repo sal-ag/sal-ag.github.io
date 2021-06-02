@@ -33,16 +33,6 @@
     stehen hierbei im Vordergrund.
 
   gallery:
-  - title: Wohnbebauung Sonnmatt, Starrkirch-Wil
-    pic: assets/img/sonnmatt.jpg
-    body: |
-      In einem gewachsenen Quartier in der Gemeinde Starrkirch-Wil 
-      konnten wir im Frühling 2019 auf einer unbebauten Parzelle acht 
-      Eigentumswohnungen in zwei Baukörpern in Holzbauweise fertigstellen 
-      und einen Beitrag zur Innenentwicklung leisten. Sämtliche Wohnungen 
-      profitieren von der zentralen Lage, den Aussichtsqualitäten sowie 
-      einer vielfältigen und dichten Umgebungsgestaltung.
-
   - title: Überbauung Jardin, Bern-Brünnen
     pic: assets/img/jardin.jpg
     body: |
@@ -70,6 +60,16 @@
     pic: assets/img/choliweid.png
     body: |
       Anstelle eines Einfamilienhauses auf einer grossflächigen Parzelle in einem bevorzugten Wohnquartier entstehen im Jahr 2022 in der Oltner Vorortsgemeinde vier moderne Holzbauten als qualitative und ortsbaulich verträgliche Nachverdichtung der bestehenden Strukturen. Die vier Neubauvolumen sollen belegen, dass der Typus des Einfamilienhauses durchaus einen zeitgemässen Beitrag zur Weiterentwicklung gewachsener Wohnquartiere leisten kann.
+  - title: Wohnbebauung Sonnmatt, Starrkirch-Wil
+    pic: assets/img/sonnmatt.jpg
+    body: |
+      In einem gewachsenen Quartier in der Gemeinde Starrkirch-Wil 
+      konnten wir im Frühling 2019 auf einer unbebauten Parzelle acht 
+      Eigentumswohnungen in zwei Baukörpern in Holzbauweise fertigstellen 
+      und einen Beitrag zur Innenentwicklung leisten. Sämtliche Wohnungen 
+      profitieren von der zentralen Lage, den Aussichtsqualitäten sowie 
+      einer vielfältigen und dichten Umgebungsgestaltung.
+
 - title: Personal
   people:
   - name: Thomas Schwab
