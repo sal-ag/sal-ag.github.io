@@ -25,11 +25,17 @@ footer {
             width: 100%;
             max-width: 12em;
             padding-top: 1ex;
-            padding-left: 1em;
+            padding-left: 0em;
             padding-bottom: 1ex;
             transition: max-width 0.2s;
         }
     }
+}
+
+@media (min-width: $breakpoint-small) {
+	.uk-navbar-nav>li>a>img {
+		padding-left: 1em;
+	}
 }
 
 
