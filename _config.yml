@@ -1,3 +1,4 @@
+site_name: sal-ag.ch
 sass:
     style: compressed
     sass_dir: _sass
