@@ -1,4 +1,4 @@
 #!/bin/sh
-echo run on salweb@freddielx
 git pull
 bundle exec jekyll b
+rsync --archive _site/* salagweb@freddielx:public_html
