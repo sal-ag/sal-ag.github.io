@@ -73,7 +73,7 @@
 - title: Personal
   people:
   - name: Thomas Schwab
-    function: Verwaltungsrat
+    function: Verwaltungsrat | Architekt
     # pic: assets/img/ts_500x500.jpg
     bio: |
       dipl. Architekt ETH/SIA, Mitbegründer und Geschäftsleitungsmitglied 
@@ -82,7 +82,7 @@
       Tätigkeitsbereich in den Fachgebieten Raumplanung, Ortsbild,
       Denkmalpflege und Städtebau.
 
-  - name: Daniela Schwab
+  - name: Daniela Schwab | Architektin
     function: Verwaltungsrätin
     # pic: assets/img/ds_500x500.jpg
     bio: |
@@ -103,7 +103,7 @@
     function: Assistentin der Geschäftsleitung | Architektin
     # pic: assets/img/nk_500x500.jpg
     bio: |
-      Dipl. Architektin FH, langjährige Tätigkeit in Architekturbüros in den
+      dipl. Architektin FH, langjährige Tätigkeit in Architekturbüros in den
       Bereichen Projekte, Wettbewerbe, Studien und Office Management (Präqualifikationen,
       Publikationen und allg. Bürotätigkeiten).
 
